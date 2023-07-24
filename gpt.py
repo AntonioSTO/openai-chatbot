@@ -1,7 +1,7 @@
 import tkinter as tk
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API-Token"
 
 def generate_response(prompt):
     completions = openai.Completion.create(

@@ -1,4 +1,4 @@
-# basic-gpt
+# openai-chatbot
 A basic implementation of a chat-bot using the openai library with Python3
 
 # Requirements: 
